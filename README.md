@@ -1,4 +1,4 @@
-# Fresher's Interview Checklist
+# Tech Job Fresher's Interview Checklist
 
 Hey there! 👋🏻 
 
