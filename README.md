@@ -16,7 +16,7 @@ Browse questions by topic:
   - [JS](web_development/javascript.md)
   - [Web](web_development/web_network.md)
   - [Databases](web_development/databases.md)
-- [Technical Problems]()
+- [Technical Problems](technical_problems/tech_sums.md)
 - [Java](java/java.md)
 - [Python](python/python.md)
 - [Resume / HR / Personality-based](resume_hr/resume_cv_hr.md)
