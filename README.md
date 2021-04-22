@@ -8,17 +8,18 @@ Browse questions by topic:
 
 ## Topics
 
-- [Data Structures & Algorithms]()
-- [Java]()
-- [Operating Systems]()
+- [Data Structures & Algorithms](ds_algo/ds_algo.md)
+- [Operating Systems](operating_systems/os.md)
 - Web Development
-  - [HTML]()
-  - [CSS]()
-  - [JS]()
-  - [Web]()
-  - [Databases]()
+  - [HTML](web_development/html.md)
+  - [CSS](web_development/css.md)
+  - [JS](web_development/javascript.md)
+  - [Web](web_development/web_network.md)
+  - [Databases](web_development/databases.md)
 - [Technical Problems]()
-- [Resume / HR / Personality-based]()
+- [Java](java/java.md)
+- [Python](python/python.md)
+- [Resume / HR / Personality-based](resume_hr/resume_cv_hr.md)
 
 ## Contributing
 
