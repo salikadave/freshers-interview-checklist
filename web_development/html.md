@@ -6,3 +6,4 @@
 - List tags you are aware of and explain them.
 - Explain the DOM Tree, NodeLists & Collections
 - What do you understand by webpage metadata? OR What goes in the `<head>` tag?
+- Design a webpage for booking bus tickets.
