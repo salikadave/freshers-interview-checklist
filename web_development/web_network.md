@@ -1,4 +1,4 @@
-## Web & Networking
+## Web Network & Server Side Computing
 
 - What happens after entering a website URL in the browser?
 - How is a URL fetched?
@@ -10,4 +10,8 @@
 - Drawbacks of JSON webtokens
 - Principles of a RESTful API Architecture
 - What is HATEOS compliance?
+- Methods of authentication
+- What is server and client side Computing?
+- What is load balancing on distributed server?
+- What is session management?
 
