@@ -37,9 +37,9 @@ If you have questions that will add value to this repository, please open a pull
 
 A special shoutout to them for helping start this initiative:
 
-  <img src="https://avatars.githubusercontent.com/u/35625827?v=4" width="40">|  <img src="" width="40"> |  <img src="https://avatars.githubusercontent.com/u/42168249?v=4" width="40">   | <img src="https://avatars.githubusercontent.com/u/62170586?v=4" width="40"> | <img src="https://media-exp1.licdn.com/dms/image/C5103AQHn8Fd3MzSwKg/profile-displayphoto-shrink_400_400/0/1562088005247?e=1624492800&v=beta&t=UWzYrn3wpNkZjG4N7l9nT8KEePXkUt7ikbTJaP-iGhg" width="40"> | <img src="https://avatars.githubusercontent.com/u/32770069?v=4" width="40"> | <img src="https://media-exp1.licdn.com/dms/image/C5103AQF7rHcS53A2Tw/profile-displayphoto-shrink_400_400/0/1577776009551?e=1624492800&v=beta&t=x0WVL-FyIhBWfb0zFnB83tNHgOY74US8dFf91mtaCic" width="40"> | <img src="https://media-exp1.licdn.com/dms/image/C5103AQE_9zUtGHAXSA/profile-displayphoto-shrink_400_400/0/1561111821220?e=1624492800&v=beta&t=zh90CVfZXqtCyifjKUQwwOi9RWmTO75TPV79uaSfu9g" width="40">  
+
+[@salikadave](https://github.com/salikadave) | [@ShwetaNadar](https://github.com/ShwetaNadar) | [@vinayakm4261](https://github.com/vinayakm4261) | [@divykj](https://github.com/divykj) | [Janvi Patel](https://www.linkedin.com/in/janvi-patel-49a81818a/) | [@anshrathod](http://www.unshh.me/) | [Vyom Binani](https://www.linkedin.com/in/vyom-binani-1a0819152/) | [Nayan Chordiya](https://www.linkedin.com/in/nayan-chordiya/)
 ---|----|------|-------------|--------|----------|-----------|---
-[Salika Dave](https://github.com/salikadave) | [Shweta Nadar](https://github.com/ShwetaNadar) | [Vinayak Malviya](https://github.com/vinayakm4261) | [Divya Jain](https://github.com/divykj) | [Janvi Patel](https://www.linkedin.com/in/janvi-patel-49a81818a/) | [Ansh Rathod](http://www.unshh.me/) | [Vyom Binani](https://www.linkedin.com/in/vyom-binani-1a0819152/) | [Nayan Chordiya](https://www.linkedin.com/in/nayan-chordiya/)
 
 #### Maintainers
 
