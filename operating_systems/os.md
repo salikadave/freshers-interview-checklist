@@ -6,4 +6,5 @@
 - Code for thread deadlock
 - Deadlock resolution techniques
 - What is paging?
-
+- Virtual pages
+- RAM

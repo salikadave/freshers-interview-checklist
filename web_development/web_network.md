@@ -14,4 +14,6 @@
 - What is server and client side Computing?
 - What is load balancing on distributed server?
 - What is session management?
-
+- What is Ajax?
+- What are sessions?
+- What are cookies?

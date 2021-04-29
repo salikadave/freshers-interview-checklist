@@ -14,6 +14,12 @@
 - Perform Natural Join on two tables.
 - What do you understand by evolving & static databases?
 - What is meant by Index-Free Adjacency and what kind of databases is it used?
-- What is an entity in an RDBMS? 
+- What is an entity in an RDBMS?
 - What is Data Integrity?
 - Design database to represent a tree structure. Also write queries to represent a parent-child pair.
+- Write a SQL query to get Average Salary per department, with department name for the following schema: EMP(ID,NAME,SAL,D_ID), DEPT(ID,NAME)
+- Normalisation (apply on the given example)
+- Indexes in DBMS, clustered index
+- What is View?
+- What is Trigger?
+- What is difference between Process and Procedure?

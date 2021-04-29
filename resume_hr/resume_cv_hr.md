@@ -1,7 +1,7 @@
 ## Resume / CV / Personality-based
 
 - Tell me a bit about yourself / Introduce yourself / CV highlights / hobbies & interests
-- What are your favourite engineering subjects and why? 
+- What are your favourite engineering subjects and why?
 - What is one failure you encountered and how did you overcome it?
 - How do you tackle when you don’t like a subject or find something difficult to learn?
 - What is your plan for next 3 to 5 years?
@@ -25,3 +25,21 @@
 - Scenario-based question: You and your colleague are given passwords to access the main system.You are out of town and he has lost his password and asks you your password because he needs access to the system urgently. Will you give it to him? Suggest an alternative to prevent such a scenario. `Creativity level MAX 💪🏻`
 - Describe a new social media platform you would like to build. Describe it's unique selling points (USP).
 - Describe your contributions towards projects done during your internships.
+- What are included in microsoft products and technologies?
+- Why should we hire you? Convince me to hire you.
+- Would you join google if you get the same offer from google?
+- By what quality will your college remember you when you'll come here after years?
+- As you say you are Microsoft enthusiast, tell me 10 microsoft product/services (used/not used)?
+- If you were to select one person from your group as CEO, what qualities would you look for?
+- Name a person you hate the most and why? (He wanted to know what qualities I dislike in people), how do you deal with such people?
+- Microsoft believes in taking up big challenges, so tell me a scenario where you believe you took such a challenge
+- How many engineers graduate every year in India? Rank yourself there.
+- Why Microsoft and how can you align with Microsoft and it's culture?
+- Tell me a real life problem you have solved?
+- Any situation when everyone was against you and you still succeeded in a task
+- Being a product based company if given a scenario wherein you are asked to modify an existing product and then deploy it in the banks of new Delhi, Amsterdam, Mexico, Poland. What factors would you have to consider while doing the same. Few of them would be: gst / tax systems of the country Currency rates / currency conversion Linking of your details with the account ( aadhar card of India) etc
+- What factors would you consider while developing a software for the Banking sector.
+- In a company if for a position, 2 people are competing and the other guy gets that position how would you handle that situation.
+- What things are currently running this IT industry.
+- What do you think this job is?
+- What qualities are needed for this job? Do you think you have those qualities?
