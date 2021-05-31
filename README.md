@@ -7,7 +7,7 @@
 
 Hey there! 👋🏻 
 
-This repo is a compilation of interview questions for a CS / IT student preparing for their first job straight out of college. 
+This repo is a compilation of interview questions for a CS / IT student preparing for their first internship / job straight out of college. 
 
 Browse questions by topic: 
 
