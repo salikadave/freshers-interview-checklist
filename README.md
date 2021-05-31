@@ -35,7 +35,7 @@ Browse questions by 📃 topic in this repository or 🔎 search for specific to
 - [30 Days of Coding](https://30dayscoding.com/): Provides an intensive study plan for revising data structures and algorithms.
 - [Leetcode](https://leetcode.com/): Practice Data Structures and Algorithms.
 
-. . . More resources will be added soon. Have a good resource? Open a PR.
+. . . More *free* resources will be added soon. Have a good addition? Open a PR.
 
 ## 👩‍💻 Contributing
 
