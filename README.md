@@ -36,6 +36,7 @@ Browse questions by 📃 topic in this repository or 🔎 search for specific to
 - [Leetcode](https://leetcode.com/): Practice Data Structures and Algorithms.
 - [VisuAlgo](https://visualgo.net/en): Visualizing Algorithms through animations
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz): YouTube channel summarizing breakthrough research papers. 
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/): Guide for anyone who wants to learn the core subjects of CS.
 
 . . . More *free* resources will be added soon. Have a good addition? Open a **PR.**
 
