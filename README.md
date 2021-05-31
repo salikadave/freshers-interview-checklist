@@ -59,11 +59,6 @@ A special shoutout 🙌 for helping gather initial repository content.
 [@salikadave](https://github.com/salikadave) | [@ShwetaNadar](https://github.com/ShwetaNadar) | [@vinayakm4261](https://github.com/vinayakm4261) | [@divykj](https://github.com/divykj) | [@JanviPatel](https://www.linkedin.com/in/janvi-patel-49a81818a/) | [@anshrathod](http://www.unshh.me/) | [@VyomBinani](https://www.linkedin.com/in/vyom-binani-1a0819152/) | [@NayanChordiya](https://www.linkedin.com/in/nayan-chordiya/)
 ---|----|------|-------------|--------|----------|-----------|---
 
-### Maintainers
-
-| [@salikadave](https://github.com/salikadave) | [@ShwetaNadar](https://github.com/ShwetaNadar) |
-|---|---|
-
 ## 🔐 License
 
 [MIT LICENSE](LICENSE)
