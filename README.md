@@ -1,17 +1,19 @@
-# Tech Internship / Job Interview Checklist
+# 🏁 Tech Internship / Job Interview Checklist
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 ![](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 <a href="https://github.com/salikadave" ><img src="https://img.shields.io/badge/Maintainer-salikadave-511281?labelColor=21094e" /></a>
 <a href="https://github.com/ShwetaNadar" ><img src="https://img.shields.io/badge/Maintainer-shwetanadar-4b778d?labelColor=21094e" /></a>
 
-Hey there! 👋🏻 
+### 👋🏻 Hey there! 
 
-This repo is a compilation of interview questions for a CS / IT student preparing for their first internship / job straight out of college. 
+This repository is a compilation of interview questions for 💻 any student preparing for their first software *internship/job* straight out of college🎓.
 
-Browse questions by topic: 
+If you find this checklist useful , please leave us a ⭐. You could also 👁‍🗨 this repository when new questions are added. 😁
 
-## Topics
+Browse questions by 📃 topic in this repository or 🔎 search for specific topics on the website [here](https://salikadave26.gitbook.io/interview-questions/).
+
+## 📃 Topics
 
 - [Data Structures & Algorithms](ds_algo/ds_algo.md)
 - [Operating Systems](operating_systems/os.md)
@@ -26,9 +28,9 @@ Browse questions by topic:
 - [Python](python/python.md)
 - [Resume / HR / Personality-based](resume_hr/resume_cv_hr.md)
 
-## Contributing
+## 👩‍💻 Contributing
 
-Contributions are encouraged and most welcome! Please open an issue for suggestions / questions or if you would like us to add more questions on a certain topic that is not included here.
+Contributions are encouraged and most welcome! Please open an issue for suggestions / questions or if you would like us to add more questions on a certain topic that is not included here, head over to the [discussions](https://github.com/salikadave/freshers-interview-checklist/discussions).
 
 If you have questions that will add value to this repository, please open a pull request! Steps to open a pull request:
 
@@ -43,14 +45,14 @@ If you have questions that will add value to this repository, please open a pull
 A special shoutout to them for helping start this initiative:
 
 
-[@salikadave](https://github.com/salikadave) | [@ShwetaNadar](https://github.com/ShwetaNadar) | [@vinayakm4261](https://github.com/vinayakm4261) | [@divykj](https://github.com/divykj) | [Janvi Patel](https://www.linkedin.com/in/janvi-patel-49a81818a/) | [@anshrathod](http://www.unshh.me/) | [Vyom Binani](https://www.linkedin.com/in/vyom-binani-1a0819152/) | [Nayan Chordiya](https://www.linkedin.com/in/nayan-chordiya/)
+[@salikadave](https://github.com/salikadave) | [@ShwetaNadar](https://github.com/ShwetaNadar) | [@vinayakm4261](https://github.com/vinayakm4261) | [@divykj](https://github.com/divykj) | [@JanviPatel](https://www.linkedin.com/in/janvi-patel-49a81818a/) | [@anshrathod](http://www.unshh.me/) | [@VyomBinani](https://www.linkedin.com/in/vyom-binani-1a0819152/) | [@NayanChordiya](https://www.linkedin.com/in/nayan-chordiya/)
 ---|----|------|-------------|--------|----------|-----------|---
 
-#### Maintainers
+### Maintainers
 
 | [@salikadave](https://github.com/salikadave) | [@ShwetaNadar](https://github.com/ShwetaNadar) |
 |---|---|
 
-## License
+## 🔐 License
 
 [MIT LICENSE](LICENSE)
