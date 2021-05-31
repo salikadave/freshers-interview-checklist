@@ -9,7 +9,7 @@
 
 This repository is a compilation of interview questions for 💻 any student preparing for their first software *internship/job* straight out of college🎓.
 
-If you find this checklist useful , please leave us a ⭐. You could also 👁‍🗨 this repository when new questions are added. 😁
+If you find this checklist useful , please leave us a ⭐. You could also 👁‍🗨 this repository when new questions/resources are added. 😁
 
 Browse questions by 📃 topic in this repository or 🔎 search for specific topics on the website [here](https://salikadave26.gitbook.io/interview-questions/).
 
@@ -27,6 +27,15 @@ Browse questions by 📃 topic in this repository or 🔎 search for specific to
 - [Java](java/java.md)
 - [Python](python/python.md)
 - [Resume / HR / Personality-based](resume_hr/resume_cv_hr.md)
+
+## 📝 Prep Resources
+
+- [Frontend Developer's Interview Checklist](https://github.com/h5bp/Front-end-Developer-Interview-Questions): Compilation of questions for a frontend interview.
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): Book series for understanding JS in depth.
+- [30 Days of Coding](https://30dayscoding.com/): Provides an intensive study plan for revising data structures and algorithms.
+- [Leetcode](https://leetcode.com/): Practice Data Structures and Algorithms.
+
+. . . More resources will be added soon. Have a good resource? Open a PR.
 
 ## 👩‍💻 Contributing
 
