@@ -7,7 +7,7 @@
 
 ### 👋🏻 Hey there! 
 
-This repository is a compilation of interview questions for 💻 any student preparing for their first software *internship/job* straight out of college🎓.
+This repository is a compilation of interview questions & resources for 💻 any student preparing for their first software *internship/job* straight out of college🎓.
 
 If you find this checklist useful , please leave us a ⭐. You could also 👁‍🗨 this repository when new questions/resources are added. 😁
 
