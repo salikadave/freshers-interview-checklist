@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏁 Tech Internship / Job Interview Checklist](README.md)
+* [Home](README.md)
 * [Web Development](web_development/README.md)
   * [Web Network & Server Side Computing](web_development/web_network.md)
   * [CSS](web_development/css.md)

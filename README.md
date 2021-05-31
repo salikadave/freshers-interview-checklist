@@ -1,4 +1,4 @@
-# 🏁 Tech Internship / Job Interview Checklist
+# Home
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![](https://img.shields.io/badge/Maintained-Yes-brightgreen) [![](https://img.shields.io/badge/Maintainer-salikadave-511281?labelColor=21094e)](https://github.com/salikadave) [![](https://img.shields.io/badge/Maintainer-shwetanadar-2940d3?labelColor=21094e)](https://github.com/ShwetaNadar)
 
