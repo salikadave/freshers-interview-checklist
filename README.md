@@ -34,11 +34,12 @@ Contributions are encouraged and most welcome! Please open an issue for suggesti
 
 If you have questions that will add value to this repository, please open a pull request! Steps to open a pull request:
 
-* Fork this repository
-* Create a branch with your name
-* Commit your changes to your branch
-* Compare changes with repo's `master` branch with your repo
+* Fork / clone this repository `git clone https://github.com/salikadave/freshers-interview-checklist.git`
+* Create a branch with your name `jane-add-sql-questions`
+* Commit your changes to your branch `git commit -m "add 3 procedural sql questions"`
+* Compare changes with this repo's `master` branch with your forked/cloned version `freshers-interview-questions:master` and `freshers-interview-questions:jane-add-sql-questions`
 * Open a pull request
+* Head over to the [discussions](https://github.com/salikadave/freshers-interview-checklist/discussions) if you are stuck at any step.
 
 **Special Mention**
 
