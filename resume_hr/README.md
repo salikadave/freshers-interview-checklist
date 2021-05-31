@@ -1,2 +1,2 @@
-# resume\_hr
+# Resume / CV
 

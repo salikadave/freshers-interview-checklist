@@ -1,2 +1,2 @@
-# technical\_problems
+# Problems
 

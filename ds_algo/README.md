@@ -1,2 +1,2 @@
-# ds\_algo
+# DS & Algorithms
 
