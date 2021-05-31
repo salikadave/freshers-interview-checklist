@@ -6,7 +6,7 @@
 
 This repository is a compilation of interview questions & resources for 💻 any student preparing for their first software _internship/job_ straight out of college🎓.
 
-If you find this checklist useful , please leave us a ⭐. You could also 👁‍🗨 this repository when new questions/resources are added. 😁
+If you find this checklist useful, we'd be glad if you could leave us a ⭐. It's suggested that you 👁‍🗨 this repository to be notified when new questions/resources are added. 😁
 
 Browse questions by 📃 topic in this repository or 🔎 search for specific topics on the website [here](https://salikadave26.gitbook.io/interview-questions/).
 
