@@ -1,5 +1,10 @@
 # Tech Internship / Job Interview Checklist
 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+![](https://img.shields.io/badge/Maintained-Yes-brightgreen)
+<a href="https://github.com/salikadave" ><img src="https://img.shields.io/badge/Maintainer-salikadave-511281?labelColor=21094e" /></a>
+<a href="https://github.com/ShwetaNadar" ><img src="https://img.shields.io/badge/Maintainer-shwetanadar-4b778d?labelColor=21094e" /></a>
+
 Hey there! 👋🏻 
 
 This repo is a compilation of interview questions for a CS / IT student preparing for their first job straight out of college. 
