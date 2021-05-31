@@ -28,14 +28,16 @@ Browse questions by 📃 topic in this repository or 🔎 search for specific to
 - [Python](python/python.md)
 - [Resume / HR / Personality-based](resume_hr/resume_cv_hr.md)
 
-## 📝 Prep Resources
+## 📝 CS & Prep Resources
 
 - [Frontend Developer's Interview Checklist](https://github.com/h5bp/Front-end-Developer-Interview-Questions): Compilation of questions for a frontend interview.
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): Book series for understanding JS in depth.
 - [30 Days of Coding](https://30dayscoding.com/): Provides an intensive study plan for revising data structures and algorithms.
 - [Leetcode](https://leetcode.com/): Practice Data Structures and Algorithms.
+- [VisuAlgo](https://visualgo.net/en): Visualizing Algorithms through animations
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz): YouTube channel summarizing breakthrough research papers. 
 
-. . . More *free* resources will be added soon. Have a good addition? Open a PR.
+. . . More *free* resources will be added soon. Have a good addition? Open a **PR.**
 
 ## 👩‍💻 Contributing
 
@@ -52,8 +54,7 @@ If you have questions that will add value to this repository, please open a pull
 
 **Special Mention**
 
-A special shoutout to them for helping start this initiative:
-
+A special shoutout 🙌 for helping gather initial repository content.
 
 [@salikadave](https://github.com/salikadave) | [@ShwetaNadar](https://github.com/ShwetaNadar) | [@vinayakm4261](https://github.com/vinayakm4261) | [@divykj](https://github.com/divykj) | [@JanviPatel](https://www.linkedin.com/in/janvi-patel-49a81818a/) | [@anshrathod](http://www.unshh.me/) | [@VyomBinani](https://www.linkedin.com/in/vyom-binani-1a0819152/) | [@NayanChordiya](https://www.linkedin.com/in/nayan-chordiya/)
 ---|----|------|-------------|--------|----------|-----------|---
