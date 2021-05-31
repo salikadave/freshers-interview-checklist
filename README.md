@@ -1,4 +1,4 @@
-# Home
+# 🏁 Tech Internship / Job Interview Checklist
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![](https://img.shields.io/badge/Maintained-Yes-brightgreen) [![](https://img.shields.io/badge/Maintainer-salikadave-511281?labelColor=21094e)](https://github.com/salikadave) [![](https://img.shields.io/badge/Maintainer-shwetanadar-2940d3?labelColor=21094e)](https://github.com/ShwetaNadar)
 
@@ -6,7 +6,7 @@
 
 This repository is a compilation of interview questions & resources for 💻 any student preparing for their first software _internship/job_ straight out of college🎓.
 
-If you find this checklist useful, we'd be glad if you could leave us a ⭐. It's suggested that you 👁‍🗨 this repository to be notified when new questions/resources are added. 😁
+If you find this checklist useful , please leave us a ⭐. You could also 👁‍🗨 this repository when new questions/resources are added. 😁
 
 Browse questions by 📃 topic in this repository or 🔎 search for specific topics on the website [here](https://salikadave26.gitbook.io/interview-questions/).
 
