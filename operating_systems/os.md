@@ -1,11 +1,10 @@
 ## Operating Systems
 
-- If I have a 2 core CPU, can I run Word, Excel, Powerpoint and MS Paint simultaneously. Consequently, what concepts are involved?
+- If I have a 2 core CPU, can I run Word, Excel, Powerpoint and MS Paint simultaneously? Consequently, what concepts would be involved?
 - How is a command executed in the bash shell?
 - What is redirection in bash?
 - Code for thread deadlock
 - Deadlock resolution techniques
 - What is paging?
-- Virtual pages
-- RAM
-- This is a dummy question
+- What are virtual pages?
+- Explain RAM.
