@@ -29,9 +29,9 @@
 * Describe your contributions towards projects done during your internships.
 * What are included in this company's products and technologies?
 * Why should we hire you? Convince me to hire you.
-* Would you join google if you get the same offer from google?
+* Would you join `competitor company` if you get the same offer from google?
 * By what quality will your college remember you when you'll come here after years?
-* As you say you are Microsoft enthusiast, tell me 10 microsoft product/services \(used/not used\)?
+* As you say you are `product company` enthusiast, tell me everything you know about their offerings.
 * If you were to select one person from your group as CEO, what qualities would you look for?
 * Name a person you hate the most and why? \(He wanted to know what qualities I dislike in people\), how do you deal with such people?
 * We believe in taking up big challenges, so tell me a scenario where you believe you took such a challenge
