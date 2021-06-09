@@ -1,7 +1,7 @@
 # Resume / CV / Personality-based
 
 * Tell me a bit about yourself/Introduce yourself/CV highlights/hobbies & interests
-* What are your favourite engineering subjects and why?
+* What are your favorite engineering subjects and why?
 * What is one failure you encountered and how did you overcome it?
 * How do you tackle when you don’t like a subject or find something difficult to learn?
 * What is your plan for next 3 to 5 years?
@@ -24,12 +24,12 @@
 * If I ask you to help someone, and it may go beyond your values, will you help that person?
 * How would you define risk?
 * What values do you add when working in a team?
-* Scenario-based question: You and your colleague are given passwords to access the main system.You are out of town and he has lost his password and asks you your password because he needs access to the system urgently. Will you give it to him? Suggest an alternative to prevent such a scenario. `Creativity level MAX 💪🏻`
+* Scenario-based question: You and your colleague are given passwords to access the main system. You are out of town and he has lost his password and asks you your password because he needs access to the system urgently. Will you give it to him? Suggest an alternative to prevent such a scenario. `Creativity level MAX 💪🏻`
 * Describe a new social media platform you would like to build. Describe it's unique selling points \(USP\).
 * Describe your contributions towards projects done during your internships.
 * What are included in this company's products and technologies?
 * Why should we hire you? Convince me to hire you.
-* Would you join `<competitor_company>` if you are offerred the same role?
+* Would you join `<competitor_company>` if you are offered the same role?
 * By what quality will your college remember you when you'll come here after years?
 * As you say you are `<product_company>` enthusiast, tell me everything you know about their offerings.
 * If you were to select one person from your group as CEO, what qualities would you look for?
