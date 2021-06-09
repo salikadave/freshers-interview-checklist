@@ -4,9 +4,9 @@
 
 ### 👋🏻 Hey there!
 
-This repository is a compilation of interview questions & resources for 💻 any student preparing for their first software _internship/job_ straight out of college🎓.
+This repository is a compilation of interview questions & resources for any student preparing for their first software _internship/job_ straight out of college🎓.
 
-If you find this checklist useful , please leave us a ⭐. You could also 👁‍🗨 this repository when new questions/resources are added. 😁
+If you find this checklist useful, please leave us a ⭐. You could also 👁‍🗨 this repository when new questions/resources are added. 😁
 
 Browse questions by 📃 topic in this repository or 🔎 search for specific topics on the website [here](https://salikadave26.gitbook.io/interview-questions/).
 
