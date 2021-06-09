@@ -33,7 +33,6 @@
 * By what quality will your college remember you when you'll come here after years?
 * As you say you are `<product_company>` enthusiast, tell me everything you know about their offerings.
 * If you were to select one person from your group as CEO, what qualities would you look for?
-* Name a person you hate the most and why? \(He wanted to know what qualities I dislike in people\), how do you deal with such people?
 * We believe in taking up big challenges, so tell me a scenario where you believe you took such a challenge
 * How many engineers graduate every year in India? Rank yourself there.
 * Why this company and how can you align with our company's and it's culture?
