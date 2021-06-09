@@ -1,6 +1,6 @@
 # Resume / CV / Personality-based
 
-* Tell me a bit about yourself / Introduce yourself / CV highlights / hobbies & interests
+* Tell me a bit about yourself/Introduce yourself/CV highlights/hobbies & interests
 * What are your favourite engineering subjects and why?
 * What is one failure you encountered and how did you overcome it?
 * How do you tackle when you don’t like a subject or find something difficult to learn?
@@ -12,13 +12,13 @@
 * What are strengths and weaknesses?
 * Domains you look forward to working in?
 * How will you be a valuable asset to our company?
-* Willingness to work on weekends, night shifts and to relocate.
+* About your willingness to work on weekends, night shifts and to relocate.
 * Hackathon and other activities.
-* Take any one of your projects, and explain the whole architecture, tech stack, size of the group, and your role in the project.
+* Take any one of your projects and explain to me the whole architecture, tech stack, size of the group and your role in the project.
 
   Expect follow-up questions like for an example, file format being used for uploading media content, use of third-party packages \(and their purpose/alternatives\), user authorization techniques being used, etc.
 
-* Other projects undertaken \(if any\)
+* Other projects undertaken (if any)
 * Explain your final year major project / thesis. Justify usage of libraries / frameworks and technology stack.
 * Are you comfortable with relocating to any other location?
 * If I ask you to help someone, and it may go beyond your values, will you help that person?
@@ -29,9 +29,9 @@
 * Describe your contributions towards projects done during your internships.
 * What are included in this company's products and technologies?
 * Why should we hire you? Convince me to hire you.
-* Would you join `competitor company` if you get the same offer from google?
+* Would you join `<competitor_company>` if you are offerred the same role?
 * By what quality will your college remember you when you'll come here after years?
-* As you say you are `product company` enthusiast, tell me everything you know about their offerings.
+* As you say you are `<product_company>` enthusiast, tell me everything you know about their offerings.
 * If you were to select one person from your group as CEO, what qualities would you look for?
 * Name a person you hate the most and why? \(He wanted to know what qualities I dislike in people\), how do you deal with such people?
 * We believe in taking up big challenges, so tell me a scenario where you believe you took such a challenge
@@ -39,10 +39,10 @@
 * Why this company and how can you align with our company's and it's culture?
 * Tell me a real life problem you have solved?
 * Any situation when everyone was against you and you still succeeded in a task
-* Being a product based company if given a scenario wherein you are asked to modify an existing product and then deploy it in the banks of new Delhi, Amsterdam, Mexico, Poland. What factors would you have to consider while doing the same. Few of them would be: gst / tax systems of the country Currency rates / currency conversion Linking of your details with the account \( aadhar card of India\) etc
-* What factors would you consider while developing a software for the Banking sector.
-* In a company if for a position, 2 people are competing and the other guy gets that position how would you handle that situation.
-* What things are currently running this IT industry.
-* What do you think this job is?
+* There is an existing product (eg. a payment gateway) that you need to modify and deploy in banks of certain cities (assume some like Mumbai, New York etc.). Discuss the factors you would consider like considering tax systems or linking SSN numbers, etc.
+* What factors would you consider when developing a software for the banking sector.
+* You and your friend are competing for the same job role/position. Your friend gets the job, what's your reaction?
+* What are the current trends you have observed in the IT industry?
+* What are your expectations from this job role?
 * What qualities are needed for this job? Do you think you have those qualities?
 
