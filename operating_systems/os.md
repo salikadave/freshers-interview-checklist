@@ -9,3 +9,5 @@
 * What are virtual pages?
 * Explain RAM.
 
+*This section still needs more work. Contributions will be helpful!*
+
