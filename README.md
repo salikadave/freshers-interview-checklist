@@ -40,6 +40,7 @@ Browse questions by 📃 topic in this repository or 🔎 search for specific to
 ## 👩‍💻 Contributing
 
 Contributions are encouraged and most welcome! Please open an issue for suggestions / questions or if you would like us to add more questions on a certain topic that is not included here, head over to the [discussions](https://github.com/salikadave/freshers-interview-checklist/discussions).
+Before making any contributions, check out the [contributing guidelines here](https://github.com/salikadave/freshers-interview-checklist/blob/main/.github/contributing.md)
 
 If you have questions that will add value to this repository, please open a pull request! Steps to open a pull request:
 
