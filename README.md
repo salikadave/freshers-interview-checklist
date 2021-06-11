@@ -21,7 +21,7 @@ Browse questions by 📃 topic in this repository or 🔎 search for specific to
   * [Web](web_development/web_network.md)
   * [Databases](web_development/databases.md)
 * [Technical Problems](technical_problems/tech_sums.md)
-* [Java](java/java.md)
+* [Java](java/README.md)
 * [Python](python/python.md)
 * [Resume / HR / Personality-based](resume_hr/resume_cv_hr.md)
 
