@@ -23,4 +23,6 @@
 * What is View?
 * What is Trigger?
 * What is difference between Process and Procedure?
-
+* What is meant by Sharding? Why is it done?
+* What is the difference between Vertical & Horizontal Sharding? State the databases that support each of them.
+* Is there any difference between Sharding & Partitioning?
