@@ -17,4 +17,6 @@
 * What is Ajax?
 * What are sessions?
 * What are cookies?
+* What is Two Tier & Three Tier Architecture
+* What is a client-server model?
 
