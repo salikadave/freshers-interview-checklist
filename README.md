@@ -35,6 +35,7 @@ Browse questions by 📃 topic in this repository or 🔎 search for specific to
 * [Two Minute Papers](https://www.youtube.com/user/keeroyz): YouTube channel summarizing breakthrough research papers. 
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/): Guide for anyone who wants to learn the core subjects of CS.
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university): Compilation of CS subjects study material.
+* [Your Missing CS Semester](https://missing.csail.mit.edu/): Covers critical topics about computing ecosystem literacy. Using shell, version control, debugging & profiling, etc.
 
 . . . More _free_ resources will be added soon. Have a good addition? Open a **PR.**
 
