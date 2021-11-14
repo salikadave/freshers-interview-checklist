@@ -1,5 +1,11 @@
 # Resume / CV / Personality-based
 
+## Resources:
+* [Difference between CV & Resume](https://gradschool.cornell.edu/career-and-professional-development/pathways-to-success/prepare-for-your-career/take-action/resumes-and-cvs/)
+* [Master's Program Resumes](https://careerservices.upenn.edu/preparing-effective-resumes/masters-student-resume-samples/)
+
+## Questions
+
 * Tell me a bit about yourself/Introduce yourself/CV highlights/hobbies & interests
 * What are your favorite engineering subjects and why?
 * What is one failure you encountered and how did you overcome it?
