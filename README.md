@@ -36,6 +36,7 @@ Browse questions by 📃 topic in this repository or 🔎 search for specific to
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/): Guide for anyone who wants to learn the core subjects of CS.
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university): Compilation of CS subjects study material.
 * [Your Missing CS Semester](https://missing.csail.mit.edu/): Covers critical topics about computing ecosystem literacy. Using shell, version control, debugging & profiling, etc.
+* [CS Courses MOOC Compilation](https://archive.org/details/github.com-Developer-Y-cs-video-courses_-_2021-04-30_20-49-30): Explore course-wise learning materials
 
 . . . More _free_ resources will be added soon. Have a good addition? Open a **PR.**
 
